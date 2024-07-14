@@ -1,0 +1,32 @@
+html {
+    font-size: 20px;
+}
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2em;
+    font-optical-sizing: none;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: 1.2em;
+    text-shadow: 3px 3px 6px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+.header1 {
+    color: skyblue;
+}
+.header2 {
+    color:  rgb(255, 192, 203);
+}
+.h2a {
+    color:  rgb(255, 192, 203);   
+}
+.h2b {
+    color: skyblue;   
+}
+#basic > p {
+    font-weight: bold;
+}
